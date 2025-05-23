@@ -1,7 +1,7 @@
 # 👋 Bonjour à tous
 
 Je m'appelle **Clément Cayrol**, jeune diplômé en informatique passionné par le développement et les nouvelles technologies.  
-Sur ce GitHub, je partage les projets personnels sur lesquels je travaille pendant mon temps libre.  
+Sur ce GitHub, je partage quelques projets sur lesquels j’ai travaillé, aussi bien dans le cadre de mes études universitaires que pendant mon temps libre. 
 Ils sont variés et me permettent d’allier **plaisir d’apprendre** et **montée en compétences**.
 
 ---
