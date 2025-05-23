@@ -9,12 +9,18 @@ Ils sont variés et me permettent d’allier **plaisir d’apprendre** et **mont
 ## 🚀 Projets mis en avant
 
 ### 🎮 Jeux Undercover
+
+https://github.com/ccayrol/undercover
+
 Un jeu mobile développé avec **React Native** et **Expo**, inspiré du célèbre jeu *Undercover*.  
 🎯 *Objectif* : Créer une expérience ludique et accessible entre amis directement sur smartphone.
 
 ---
 
 ### 🏘️ Immobilier App
+
+https://github.com/ccayrol/immobilier_app
+
 Une application web conçue pour un rentier immobilier.
 
 - **Frontend** : React + Tailwind CSS  
@@ -27,6 +33,9 @@ reflétant une **image haut de gamme** et professionnelle.
 ---
 
 ### 📄 LMS Moodle - Générateur de conventions
+
+https://github.com/ccayrol/lms_moodle
+
 Projet réalisé pour un professeur d’université à Bordeaux.  
 À partir de fichiers CSV remplis par les étudiants, le programme :
 
