@@ -20,7 +20,9 @@ Une application web conçue pour un rentier immobilier.
 - **Frontend** : React + Tailwind CSS  
 - **Backend** : Node.js
 
-🔍 *Objectif* : Simplifier la gestion et la visualisation de biens immobiliers.
+🔍 *Objectif* : Simplifier la gestion et la visualisation de biens immobiliers,  
+tout en renforçant la **visibilité en ligne** du rentier à travers une interface soignée,  
+reflétant une **image haut de gamme** et professionnelle.
 
 ---
 
